@@ -1,0 +1,21 @@
+[class*="square"]{
+	position: relative;
+	width: 123px;
+	height: 117px;
+}
+
+.square_1{
+	background: #E4E01AFF;
+}
+
+.square_2{
+	background: #DF9C1FFF;
+	top: -75px;
+	left: 66px;
+}
+
+.square_3{
+	background: #DC5E22FF;
+	top: -139px;
+	left: 120px;
+}
